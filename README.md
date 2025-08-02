@@ -1,6 +1,3 @@
-maybe it can be used for something..
-Random or not so random parameter cycler.. 
-it turns learnable parameters on and off randomly every forwad pass.. hundred a minute. Spread the learnable load .. as they say.
 
 ```python
 
